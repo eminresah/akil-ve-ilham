@@ -1,0 +1,3 @@
+[submodule "themes/erbook"]
+	path = themes/erbook
+	url = git@github.com:iesahin/erbook

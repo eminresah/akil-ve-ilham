@@ -9,7 +9,7 @@ identifier:
 - scheme: URI
   text: https://kitap.eminresah.com/akil-ve-ilham/
 publisher: harfzen
-cover-image: static/cover.png
+cover-image: static/cover.jpg
 stylesheet: resources/epub.css
 rights:  Telif Hakkı © 2020 Emin Reşah. Her Hakkı Saklıdır. 
 language: tr-TR

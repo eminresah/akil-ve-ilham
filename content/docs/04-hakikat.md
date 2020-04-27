@@ -1,5 +1,5 @@
 ---
-title: 4 Hakikat
+title: Hakikat
 ---
 
 ## Hakikatin Bedeli

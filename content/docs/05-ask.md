@@ -1,5 +1,5 @@
 ---
-title: 5 Aşk
+title: Aşk
 ---
 
 ## Mercek 

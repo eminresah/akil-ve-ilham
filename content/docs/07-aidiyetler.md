@@ -1,5 +1,5 @@
 ---
-title: 7 Aidiyetler
+title: Aidiyetler
 ---
 
 ## Aidiyetler Krizi

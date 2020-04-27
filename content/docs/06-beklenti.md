@@ -1,5 +1,5 @@
 ---
-title: 6 Beklenti
+title: Beklenti
 ---
 
 ## Beklenti

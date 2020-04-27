@@ -1,5 +1,5 @@
 ---
-title: 8 Bilgi
+title: Bilgi
 ---
 
 ## Alim

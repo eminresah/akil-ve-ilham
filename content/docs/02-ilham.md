@@ -1,5 +1,5 @@
 ---
-title: 2 İlham
+title: İlham
 ---
 
 ## Bireyin Ölümsüzlüğü

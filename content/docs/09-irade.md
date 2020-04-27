@@ -1,5 +1,5 @@
 ---
-title: 9 İrade
+title: İrade
 ---
 
 ## Tecavüz Ne Demek?
